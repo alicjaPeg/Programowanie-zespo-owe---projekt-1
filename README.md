@@ -1,5 +1,5 @@
-# Programowanie-zespolowe---projekt-1
-Pierwszy projekt na programowanie zespołowe.
+# Programowanie-zespolowe---projekt-1\n
+Pierwszy projekt na programowanie zespołowe.\n
 Opis: Aplikacja mobilna - gra
 Użyte technologie: kotlin, java
 Programy: IntelliJ, android studio
