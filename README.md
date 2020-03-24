@@ -1,5 +1,6 @@
-# Programowanie-zespolowe---projekt-1\n
-Pierwszy projekt na programowanie zespołowe.\n
+# Programowanie-zespolowe---projekt-1
+Autorzy: Alicja Pęiel i Kacper Gorgoń
+Pierwszy projekt na programowanie zespołowe.
 Opis: Aplikacja mobilna - gra
 Użyte technologie: kotlin, java
 Programy: IntelliJ, android studio
