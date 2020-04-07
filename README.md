@@ -1,6 +1,6 @@
 # Programowanie-zespolowe---projekt-1
-Autorzy: Alicja Pęgiel i Kacper Gorgoń
-Pierwszy projekt na programowanie zespołowe.
+## Pierwszy projekt na programowanie zespołowe.
+### Autorzy: Alicja Pęgiel i Kacper Gorgoń
 Opis: Aplikacja mobilna - gra
 Użyte technologie: kotlin, java
 Program: Android Studio
