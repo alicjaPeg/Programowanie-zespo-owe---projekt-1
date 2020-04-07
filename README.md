@@ -4,7 +4,7 @@
 
 **Autorzy: Alicja Pęgiel i Kacper Gorgoń**
 
-**Opis:** Aplikacja mobilna - gra
+## Opis: Aplikacja mobilna - gra
 
 - Użyte technologie: kotlin, java
 - Program: Android Studio
