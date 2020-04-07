@@ -1,4 +1,4 @@
-# Programowanie-zespolowe---projekt-1
+# Programowanie zespołowe - projekt 1
 
 **Pierwszy projekt na programowanie zespołowe.**
 
@@ -17,18 +17,18 @@
 - [x] Zaplanowanie funkcjonalności aplikacji 
 - [x] Opracowanie projektu aplikacji
 ### 2 tydzień:
-- [] Uczenie się nowych technologii
-- [] Proces programowania aplikacji
+- [ ] Uczenie się nowych technologii
+- [ ] Proces programowania aplikacji
 ### 3 tydzień:
-- [] Testowanie
-- [] Poprawianie błędów
-- [] Tworzenie grafik
+- [ ] Testowanie
+- [ ] Poprawianie błędów
+- [ ] Tworzenie grafik
 ### 4 tydzień:
-- [] Dodanie ewentualnych funkcjonalności
+- [ ] Dodanie ewentualnych funkcjonalności
 ### 5 tydzień:
-- [] Testowanie nowych funkcji i potencjalne
+- [ ] Testowanie nowych funkcji i potencjalne
 	poprawki
-- [] Ukończenie projektu
+- [ ] Ukończenie projektu
 
 
 
