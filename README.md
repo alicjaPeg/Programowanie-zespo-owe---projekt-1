@@ -7,8 +7,8 @@
 - Platforma: system android
 - Harmonogram: 
 **1 tydzień:**
-[x] Zaplanowanie funkcjonalności aplikacji 
-[x] Opracowanie projektu aplikacji
+- [x] Zaplanowanie funkcjonalności aplikacji 
+- [x] Opracowanie projektu aplikacji
 - Odpowiedzialność: ustalono (osobny plik)
 - Metodologia: agile
 - Sposób testowania: przez twórców
