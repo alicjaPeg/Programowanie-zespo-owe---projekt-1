@@ -12,7 +12,8 @@
 - Odpowiedzialność: ustalono (osobny plik)
 - Metodologia: agile
 - Sposób testowania: przez twórców
-- Harmonogram: 
+
+## Harmonogram: 
 ### 1 tydzień:
 - [x] Zaplanowanie funkcjonalności aplikacji 
 - [x] Opracowanie projektu aplikacji
