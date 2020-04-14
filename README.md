@@ -18,8 +18,8 @@
 - [x] Zaplanowanie funkcjonalności aplikacji 
 - [x] Opracowanie projektu aplikacji
 ### 2 tydzień:
-- [ ] Uczenie się nowych technologii
-- [ ] Proces programowania aplikacji
+- [x] Uczenie się nowych technologii
+- [x] Proces programowania aplikacji
 ### 3 tydzień:
 - [ ] Testowanie
 - [ ] Poprawianie błędów
